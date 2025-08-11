@@ -88,7 +88,7 @@ const Home = () => {
                   <ArrowRight size={20} className="ml-2 group-hover:translate-x-1 transition-transform" />
                 </Link>
                 <a
-                  href="/resume.pdf"
+                  href="/src/assets/AnkithMathew_Resume.docx"
                   download
                   className="group inline-flex items-center px-6 py-3 border-2 border-cyan-400 text-cyan-400 font-medium rounded-lg hover:bg-cyan-400 hover:text-black transition-all duration-300 transform hover:scale-105"
                 >

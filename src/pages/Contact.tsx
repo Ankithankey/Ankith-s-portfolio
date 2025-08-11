@@ -172,10 +172,14 @@ const Contact = () => {
               <p className="text-gray-300 mb-4 font-mono">
                 Get a detailed overview of my experience, skills, and projects.
               </p>
-              <button className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 text-white font-medium rounded-lg hover:from-cyan-600 hover:to-purple-600 transition-all duration-200 font-mono">
+              <a 
+                href="/src/assets/AnkithMathew_Resume.docx"
+                download
+                className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 text-white font-medium rounded-lg hover:from-cyan-600 hover:to-purple-600 transition-all duration-200 font-mono"
+              >
                 <Download size={20} className="mr-2" />
                 DOWNLOAD.CV
-              </button>
+              </a>
             </div>
           </div>
 
