@@ -88,7 +88,7 @@ const Home = () => {
                   <ArrowRight size={20} className="ml-2 group-hover:translate-x-1 transition-transform" />
                 </Link>
                 <a
-                  href="/src/assets/AnkithMathew_Resume.docx"
+                  href="/assets/AnkithMathew_Resume.docx"
                   download
                   className="group inline-flex items-center px-6 py-3 border-2 border-cyan-400 text-cyan-400 font-medium rounded-lg hover:bg-cyan-400 hover:text-black transition-all duration-300 transform hover:scale-105"
                 >
@@ -133,7 +133,7 @@ const Home = () => {
                 {/* Profile Image Container */}
                 <div className="relative w-full h-full bg-gradient-to-r from-cyan-500/20 to-purple-500/20 rounded-full border border-cyan-400/50 flex items-center justify-center backdrop-blur-sm">
                   <img
-                    src="/src/assets/Ankith.jpg"
+                    src="/assets/Ankith.jpg"
                     alt="Ankith Mathew AR"
                     className="w-64 h-64 rounded-full object-cover border-4 border-cyan-400/50 shadow-lg shadow-cyan-500/25"
                   />

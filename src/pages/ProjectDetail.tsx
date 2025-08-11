@@ -14,7 +14,7 @@ const ProjectDetail = () => {
 Key highlights include robust user authentication, real-time chat, profile management, and a scalable backend built with ASP.NET Web API and SQL Server. The platform is optimized for both desktop and mobile devices, ensuring accessibility and performance for all users.
 
 Challenges addressed include implementing secure user data handling, optimizing matchmaking logic, and creating a modern, responsive UI with React and Bootstrap.`,
-      image: '/src/assets/Login.png',
+      image: '/assets/Login.png',
       category: 'Full-Stack',
       technologies: ['React', 'ASP.NET Web API', 'SQL Server', 'Bootstrap', 'C#'],
       liveDemo: 'https://nrimarriage.in',
@@ -34,9 +34,9 @@ Challenges addressed include implementing secure user data handling, optimizing 
         'Modern UI'
       ],
       gallery: [
-        '/src/assets/dReg.png',
-        '/src/assets/otp.png',
-        '/src/assets/dash.png',
+        '/assets/dReg.png',
+        '/assets/otp.png',
+        '/assets/dash.png',
       ],
       challenges: [
         'Implementing secure user data handling',
@@ -57,7 +57,7 @@ Challenges addressed include implementing secure user data handling, optimizing 
 The platform supports chef onboarding, menu management, and customer reviews, all within a modern React interface. FastAPI powers the backend, ensuring fast and reliable API responses.
 
 Key challenges included integrating multiple AWS services, ensuring secure payment flows, and building a responsive, intuitive UI for both chefs and customers.`,
-      image: '/src/assets/Homecookt.png',
+      image: '/assets/Homecookt.png',
       category: 'Full-Stack',
       technologies: ['React', 'FastAPI', 'AWS EC2', 'AWS S3', 'AWS RDS'],
       liveDemo: 'https://www.homecookt.com',
@@ -77,9 +77,9 @@ Key challenges included integrating multiple AWS services, ensuring secure payme
         'AWS integration'
       ],
       gallery: [
-        '/src/assets/c1.png',
-        '/src/assets/c2.png',
-        '/src/assets/c3.png',
+        '/assets/c1.png',
+        '/assets/c2.png',
+        '/assets/c3.png',
       ],
       challenges: [
         'Integrating multiple AWS services',
@@ -100,7 +100,7 @@ Key challenges included integrating multiple AWS services, ensuring secure payme
 The app supports profile creation, photo uploads, and real-time notifications. It is optimized for performance and user experience on both platforms.
 
 Challenges included implementing real-time chat, ensuring data security, and creating a seamless experience across devices.`,
-      image: '/src/assets/MarryupFeatureGraphic.png',
+      image: '/assets/Mob.png',
       category: 'Mobile',
       technologies: ['React Native', 'ASP.NET Web API', 'SQL Server', 'iOS', 'Android'],
       // github: 'https://github.com/Ankithankey/marryup-mobile',
@@ -119,9 +119,9 @@ Challenges included implementing real-time chat, ensuring data security, and cre
         'Performance optimization'
       ],
       gallery: [
-        '/src/assets/MarryupFeatureGraphic.png',
-        // '/src/assets/M1.png',
-        // '/src/assets/Marryup2.png',
+        '/assets/Mob.png',
+        // '/assets/M1.png',
+        // '/assets/Marryup2.png',
       ],
       challenges: [
         'Implementing real-time chat',
@@ -142,7 +142,7 @@ Challenges included implementing real-time chat, ensuring data security, and cre
 The project demonstrates frontend skills in UI design, component architecture, and state management, with mock data for demonstration purposes.
 
 Key challenges included creating a Netflix-like layout, optimizing for responsiveness, and ensuring smooth navigation between content sections.`,
-      image: '/src/assets/Ott.png',
+      image: '/assets/Ott.png',
       category: 'Frontend',
       technologies: ['React', 'Bootstrap', 'Chart.js', 'JavaScript'],
       github: 'https://github.com/Ankithankey/websites-static-',
@@ -161,9 +161,9 @@ Key challenges included creating a Netflix-like layout, optimizing for responsiv
         'Modern frontend stack'
       ],
       gallery: [
-        '/src/assets/Ott.png',
-        '/src/assets/N1.png',
-        '/src/assets/N2.png',
+        '/assets/Ott.png',
+        '/assets/N1.png',
+        '/assets/N2.png',
       ],
       challenges: [
         'Creating a Netflix-like layout',
@@ -182,7 +182,7 @@ Key challenges included creating a Netflix-like layout, optimizing for responsiv
       longDescription: `This Health & Fitness Blog is a modern web application dedicated to promoting wellness and healthy living. Built with React and Bootstrap, it features engaging articles, workout routines, nutrition tips, and motivational content for users at all fitness levels.
 
 Key features include categorized blog posts, interactive comment sections, responsive design for all devices, and a clean, inviting UI. The project demonstrates frontend development, content organization, and user engagement strategies.`,
-      image: '/src/assets/H1.png',
+      image: '/assets/H1.png',
       category: 'Frontend',
       technologies: ['React', 'Bootstrap', 'CSS3', 'JavaScript'],
       github: 'https://github.com/Ankithankey/healthandfitness',
@@ -201,9 +201,9 @@ Key features include categorized blog posts, interactive comment sections, respo
         'Frontend deployment'
       ],
       gallery: [
-        '/src/assets/H1.png',
-        '/src/assets/H2.png',
-        '/src/assets/Hcontact.png',
+        '/assets/H1.png',
+        '/assets/H2.png',
+        '/assets/Hcontact.png',
       ],
       challenges: [
         'Organizing diverse content types',
@@ -222,7 +222,7 @@ Key features include categorized blog posts, interactive comment sections, respo
       longDescription: `MovieInfo is a dynamic React website that fetches movie data from The Movie DB API. Users can search for movies, view posters, ratings, and detailed information in real time.
 
 The project highlights API integration, search functionality, and responsive UI design. It demonstrates skills in asynchronous data fetching, state management, and user experience optimization.`,
-      image: '/src/assets/movieinfo.png',
+      image: '/assets/movieinfo.png',
       category: 'Frontend',
       technologies: ['React', 'The Movie DB API', 'CSS3', 'JavaScript'],
       github: 'https://github.com/Ankithankey/websites-react-/tree/main/movies-info',
@@ -241,9 +241,9 @@ The project highlights API integration, search functionality, and responsive UI 
         'State management'
       ],
       gallery: [
-        '/src/assets/movieinfo.png',
-        '/src/assets/Mo1.png',
-        '/src/assets/Mo2.png',
+        '/assets/movieinfo.png',
+        '/assets/Mo1.png',
+        '/assets/Mo2.png',
       ],
       challenges: [
         'Integrating external APIs',
@@ -262,7 +262,7 @@ The project highlights API integration, search functionality, and responsive UI 
       longDescription: `Weather Dashboard is a React application that provides real-time weather forecasts and data visualization using external weather APIs. Users can search for locations and view detailed weather statistics.
 
 The project demonstrates API integration, charting with Chart.js, and responsive design. It showcases frontend skills in data visualization and user interaction.`,
-      image: '/src/assets/weathercast.png',
+      image: '/assets/weathercast.png',
       category: 'Frontend',
       technologies: ['React', 'Weather API', 'Chart.js', 'Bootstrap'],
       github: 'https://github.com/Ankithankey/websites-react-/tree/main/weather-forecast',
@@ -281,9 +281,9 @@ The project demonstrates API integration, charting with Chart.js, and responsive
         'Real-time updates'
       ],
       gallery: [
-        '/src/assets/weathercast.png',
-        '/src/assets/W1.png',
-        '/src/assets/W2.png',
+        '/assets/weathercast.png',
+        '/assets/W1.png',
+        '/assets/W2.png',
       ],
       challenges: [
         'Integrating weather APIs',
@@ -302,7 +302,7 @@ The project demonstrates API integration, charting with Chart.js, and responsive
       longDescription: `Todo List is a React application that allows users to manage tasks with full CRUD functionality. Tasks can be added, edited, deleted, and marked as complete, with all data stored locally in the browser.
 
 The project demonstrates React component design, state management, and responsive UI development. It is ideal for learning and demonstrating CRUD operations in a frontend context.`,
-      image: '/src/assets/Todo.png',
+      image: '/assets/Todo.png',
       category: 'Frontend',
       technologies: ['React', 'Bootstrap', 'Local Storage', 'JavaScript'],
       github: 'https://github.com/Ankithankey/websites-react-/tree/main/todolist-react',
@@ -321,8 +321,8 @@ The project demonstrates React component design, state management, and responsiv
         'Learning project'
       ],
       gallery: [
-        '/src/assets/Todo.png',
-        '/src/assets/t2.png',
+        '/assets/Todo.png',
+        '/assets/t2.png',
       ],
       challenges: [
         'Managing state for CRUD',
